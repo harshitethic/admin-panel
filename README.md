@@ -23,4 +23,6 @@
 </ul>
 
 <h3>Conclusion</h3>
-<p>Overall, my admin panel script is a simple and effective solution for managing user accounts and ensuring the security of the admin panel. </p>
+<p>Overall, my admin panel script is a simple and effective solution for managing user accounts and ensuring the security of the admin panel.</p>
+
+<p>&copy; 2023 - Harshitethic | <a href="https://harshitethic.in/">https://harshitethic.in/</a> | <a href="https://github.com/harshitethic">https://github.com/harshitethic</a></p>
